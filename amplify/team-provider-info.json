@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-resto-dev-05aa3-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905418409112:role/amplify-resto-dev-05aa3-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905418409112:role/amplify-resto-dev-05aa3-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-resto-dev-05aa3-deployment",
+      "UnauthRoleName": "amplify-resto-dev-05aa3-unauthRole",
+      "StackName": "amplify-resto-dev-05aa3",
+      "StackId": "arn:aws:cloudformation:eu-north-1:905418409112:stack/amplify-resto-dev-05aa3/ae4cc390-11f9-11ef-88ed-0a893160ff4c",
+      "AmplifyAppId": "d2g6oq7vmnzknq"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
